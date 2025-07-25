@@ -1,4 +1,4 @@
-ite_name: 'doc-example-site'
+site_name: 'doc-example-site'
 site_description: 'An example of doc site with multiple nav links'
 
 nav:
