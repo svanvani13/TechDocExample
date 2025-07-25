@@ -1,7 +1,12 @@
-site_name: 'doc-example-site'
+ite_name: 'doc-example-site'
 site_description: 'An example of doc site with multiple nav links'
 
 nav:
   - Introduction: index.md
+  - Getting Started: getting-started.md
+  - API Reference: api-reference.md
+  - Troubleshooting: troubleshooting.md
+theme:
+  name: material
 plugins:
   - techdocs-core
